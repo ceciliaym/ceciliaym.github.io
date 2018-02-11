@@ -238,6 +238,33 @@ body {
     border: 0 none;
   }
   
+  @media screen and (max-width: 640px ){
+  nav{
+    float: left;
+  }
+  .sidebar{
+    float: left;
+  }
+    }
+
+    @media screen and (max-width: 768px ){
+      nav{
+        float: left;
+      }
+      .sidebar{
+        float: left;
+      }
+        }
+        
+        @media screen and (max-width: 980px ){
+          nav{
+            float: left;
+          }
+          .sidebar{
+            float: left;
+          }
+            }         
+  
 
 
 
